@@ -263,3 +263,5 @@ I work closely with Integrated Learning Systems and therapists in the US and UK
 ## 1.9 Research
 
 Obtained about USD 3 million in grants in Hong Kong, Singapore and India from Governments, HK University Grants Commission (Hong Kong), HKPU and industrial sources during a 25 year academic career (1972-1997). Developed various [methodologies and technologies](https://www.youtube.com/watch?v=yT5eb1KV3J4) for enhancement and quality assurance of the learning process. More than 40 papers, edited Proceedings, and research reports, chapters in Edited Books, and technical reports.
+
+### hello samar
